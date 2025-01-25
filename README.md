@@ -1,5 +1,4 @@
 # 2024-ITCS431-Gemini7
-# README
 
 ## Functional Requirements
 
