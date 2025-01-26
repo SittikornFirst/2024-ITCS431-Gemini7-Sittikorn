@@ -51,7 +51,7 @@
 - The system should define and enforce access privileges for each user role and operational level.
 - The system should prevent unauthorized access to sensitive subsystems.
 - The system should log all user activities, including commands, errors, and status inquiries, to ensure traceability.
-- The system should use encrypted communication protocols (e.g., TCP/IP, ISDN) for remote monitoring and control.
+- The system should use encrypted communication protocols for remote monitoring and control.
 - The system should include safeguards to prevent remote access from affecting ongoing local operations.
 
 ### Usability Expectations
