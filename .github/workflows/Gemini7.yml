@@ -23,6 +23,6 @@ jobs:
 
     - name: Compile Java
       run: |
-        cd /HolidayTravelVehicles 
+        cd 2024-ITCS431-Gemini7/HolidayTravelVehicles 
         javac -d . *.java
       # Compile java file from directory
