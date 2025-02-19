@@ -25,5 +25,5 @@ jobs:
       run: |
         cd HolidayTravelVehicles
         javac Main.java
-        Java Main
+        java Main
       # Compile java and run file from directory
