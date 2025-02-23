@@ -26,4 +26,5 @@
 ![Image 24](https://drive.google.com/uc?id=1kh_ELChB1vt7tpr-27qs3Tor4TCfzKr_)
 ![Image 25](https://drive.google.com/uc?id=1ID9v8X7P6VjhhDyn2wPfuGih53740efQ)
 ![Image 26](https://drive.google.com/uc?id=1m4Nlp9lEgbFcolwKO05zHe61fwtaiSWw)
-![Image 27](https://drive.google.com/uc?id=17nOJ9w-n7y2M3yon1CEL1muu4Fb6upwc)
+# Class diagram
+![Image 27](https://drive.google.com/uc?id=19QllK-yzi90QNmsQBTBXZGet9TXIBMNm)
