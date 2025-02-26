@@ -4,7 +4,7 @@ public class Main {
         Salesperson salesperson = new Salesperson("Monbiew", "456 Avenue", "0846413669", "S001", 50000, "Manager");
         Vehicle vehicle = new Vehicle("V001", "Toyota", "Camry", 2022, "Toyota", 25000);
         Invoice invoice = new Invoice("INV1001", "2025-02-19", 2000, 500, 300, "John Doe");
-        Custoemr customer2 = new Customer('Sittikorn Maneewong', '0804796695'); // for error checking
+        Customer customer2 = new Customer("Sittikorn Maneewong", "0846413669"); // for error checking
 
         customer2.getInvoice(); // for error checking
         customer.getInvoice();
